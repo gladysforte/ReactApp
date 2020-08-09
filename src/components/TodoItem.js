@@ -32,7 +32,7 @@ TodoItem.propTypes = {
 }
 
 const btnStyle = {
-    background: 'crimson',
+    background: "linear-gradient(to bottom, crimson, gray)",
     color: '#fff',
     border: 'none',
     padding: '5px 10px',

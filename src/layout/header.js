@@ -11,10 +11,10 @@ function Header(){
 }
 
 const headerStyle = {
-    background: "teal",
     color: '#fff',
     textAlign: 'center',
-    padding: "10px"
+    padding: "10px",
+    background: "linear-gradient(to bottom, teal, green)",
 }
 
 const LinkStyle = {

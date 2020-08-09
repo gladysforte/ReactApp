@@ -6,15 +6,17 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(to bottom, orange, white);
 }
 
 .btn{
   display: inline-block;
   border: none;
-  background: gray;
-  color: white;
+  /* background: gray; */
+  color: black;
   padding: 7px 20px;
   cursor: pointer;
+  background: linear-gradient(to bottom, green, white);
 }
 
 .btn:hover{
